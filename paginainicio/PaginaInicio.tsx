@@ -7,7 +7,7 @@ export const PaginaInicio = () => {
       <Text style={styles.title}>
         PETSHOP
         <Text style={styles.titulo2}>
-          Donde encontraras los mejores alimentos para tu mascota  !!
+          Donde encontraras los mejores alimentos para tus mascotas  !!
         </Text>
         <Image source={require('.assets/logo/.jpg')} style={styles.imagenlogo} />
       </Text>
